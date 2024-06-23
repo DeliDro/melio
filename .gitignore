@@ -1,4 +1,4 @@
-saved_model/*
+saved_model/*/*
 */token.txt
 */.ipynb_checkpoints/
 */__pycache__
