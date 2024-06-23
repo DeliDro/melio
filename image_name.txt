@@ -1,0 +1,1 @@
+058264459447.dkr.ecr.eu-west-1.amazonaws.com/highwind/d8b451f6-af4e-443e-a5d5-e3b0d3ad6166/653325b2-1e3b-4370-a2ea-bee7f274e731:latest

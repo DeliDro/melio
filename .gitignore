@@ -1,0 +1,5 @@
+saved_model/*
+*/token.txt
+*/.ipynb_checkpoints/
+*/__pycache__
+.git/
