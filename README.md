@@ -31,9 +31,9 @@ This project was created for the "Melio MLOps Machine Translation Challenge". It
 ```shell
 cd deployment
 
-docker buildx build -t <your_image_name>
+docker buildx build -t <your_image_name> .
 
 docker compose up -d
 ```
 
-Be sure to replace `meio_build` by `<your_image_name>` in the `docker-compose.yml`.
+Be sure to replace `melio_build` by `<your_image_name>` in the `docker-compose.yml` file.
