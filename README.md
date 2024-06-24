@@ -1,6 +1,4 @@
-﻿# melio_mlops
-
-Translation Dyula to French# Melio MLOps Machine Translation Challenge
+# Melio MLOps Machine Translation Challenge
 
 ## Author
 
