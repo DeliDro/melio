@@ -1,4 +1,4 @@
-# Melio MLOps Machine Translation Challenge
+# Melio MLOps Machine Translation
 
 ## Author
 
@@ -37,3 +37,4 @@ docker compose up -d
 ```
 
 Be sure to replace `melio_build` by `<your_image_name>` in the `docker-compose.yml` file.
+
