@@ -8,7 +8,7 @@
 
 ## Introduction
 
-This project was created for the "Melio MLOps Machine Translation Challenge". It uses the NLLB (No Language Left Behind) model from Meta AI for automatic translation. The goal of this project is to demonstrate the translation capabilities of the NLLB model using a robust and scalable architecture, suitable for MLOps requirements.
+This project uses the NLLB (No Language Left Behind) model from Meta AI for automatic translation. The goal of this project is to demonstrate the translation capabilities of the NLLB model using a robust and scalable architecture, suitable for MLOps requirements.
 
 ## Code Architecture
 
@@ -37,4 +37,5 @@ docker compose up -d
 ```
 
 Be sure to replace `melio_build` by `<your_image_name>` in the `docker-compose.yml` file.
+
 
